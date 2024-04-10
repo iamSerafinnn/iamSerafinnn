@@ -6,11 +6,11 @@
 
 ###
 
-<h2 align="left">I am an early undergraduate programmer majoring in CS. I am looking forward to be able to assists companies on game development, game designing, ai programming, or cyber security related. I have experienced working with languages like C, Python, C++, which C++ is my favorite.</h2>
+<h2 align="left">I am an early undergraduate CS major trying to expand his experience and abilities in coding. I am currently seeking for internships and events relating to the computer science field, while at the same time, focusing on education and sports during my college years. I have gained experience working on languages like C, C++, python, and a couple of data structures skills.</h2>
 
 ###
 
-<h5 align="left">✨ Creating bugs since ...<br>📚 I'm currently learning how computer hardwares work on my CS 261 class 💻 <br>🎯 Goals: Work as a Game Developer/Designer and Programmer 👨‍💻 <br>🎲 Fun fact: I love video games and I grew up with them 🎮</h5>
+<h5 align="left">✨ Creating bugs since ...<br>📚 I'm currently learning how computer hardwares work on my CS 261 class 💻 <br>🎯 Goals: Work as a Game Developer/Designer and Programmer 👨‍💻 <br>🎲 Fun fact: I love video games and enjoy playing soccer.</h5>
 
 ###
 
